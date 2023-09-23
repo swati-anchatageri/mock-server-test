@@ -1,18 +1,130 @@
 {
-    "dogs": [
-      {
-        "id": 1,
-        "name": "Cherry",
-        "age": 2,
-        "place": "Visakhapatnam",
-        "gender": "Male"
-      },
-      {
-        "id": 2,
-        "name": "Tommy",
-        "age": 3,
-        "place": "Banglore",
-        "gender": "Female"
-      }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230906/vVWa/64f80929afa4cf41f5b34d62/-473Wx593H-461119105-blue-MODEL.jpg",
+      "name": "Blue Shirt",
+      "description": "shirt for men with best fit",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": 2999
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/769732/pexels-photo-769732.jpeg?cs=srgb&dl=pexels-jeffrey-reed-769732.jpg&fm=jpg",
+      "name": "Checkd Shirt",
+      "description": "shirt for men with best fit",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": 1599
+    },
+    {
+      "id": 3,
+      "image": "https://imagescdn.planetfashion.in/img/app/product/7/795640-9350615.jpg?auto=format&w=494.40000000000003",
+      "name": "Blue Jeans",
+      "description": "Jeans for men with best fit",
+      "gender": "Male",
+      "category": "Jeans",
+      "price": 1599
+    },
+    {
+      "id": 4,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/CI/LV/HQ/43967183/l-gry-2-500x500.jpg",
+      "name": "Men's Trousers",
+      "description": "Trousers for men with best fit",
+      "gender": "Male",
+      "category": "Trousers",
+      "price": 1999
+    },
+    {
+      "id": 5,
+      "image": "https://cdn11.nnnow.com/web-images/medium/styles/P8CKCSYHJXI/1683532800100/1.jpg",
+      "name": "Men's Suit",
+      "description": "Suite for men with best fit",
+      "gender": "Male",
+      "category": "Suite",
+      "price": 1999
+    },
+    {
+      "id": 6,
+      "image": "https://cdn11.nnnow.com/web-images/medium/styles/P8CKCSYHJXI/1683532800100/1.jpg",
+      "name": "Men's Suit",
+      "description": "Suite for men with best fit",
+      "gender": "Male",
+      "category": "Suite",
+      "price": 1999
+    },
+    {
+      "id": 7,
+      "image": "https://ik.imagekit.io/wb2spwtue/kreeva/tr:h-1100,w-800,q-80,cm-pad_resize/media/catalog/product/s/a/saree-2-04.jpg",
+      "name": "Women Saree",
+      "description": "Gorgious saree for women",
+      "gender": "Female",
+      "category": "Saree",
+      "price": 4999
+    },
+    {
+      "id": 8,
+      "image": "https://www.loomfolks.com/wp-content/uploads/2023/05/Gorgeous-Black-Linen-Handloom-Saree-with-Banarasi-Design3_1.jpg",
+      "name": "Blue Saree",
+      "description": "Gorgious saree for women",
+      "gender": "Female",
+      "category": "Saree",
+      "price": 2299
+    },
+    {
+      "id": 9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYg_n5acegyL_dfh2CqTv-GWGlU0pvPFcqg&usqp=CAU",
+      "name": "Women's Kurta",
+      "description": "Gorgious Kurta for women",
+      "gender": "Female",
+      "category": "Kurta",
+      "price": 2599
+    },
+    {
+      "id": 10,
+      "image": "https://clothsvilla.com/cdn/shop/products/pure-cotton-orange-color-kurti-by-looknbook-art_grande.jpg?v=1681401420",
+      "name": "Women's Kurta",
+      "description": "Gorgious Kurta for women",
+      "gender": "Female",
+      "category": "Kurta",
+      "price": 3999
+    },
+    {
+      "id": 11,
+      "image": "https://www.brides.com/thmb/1lmOpoYD8rwP02ui8rPO7kZW3So=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amand-and-kyle-wedding-07-2fdc33196b0e465886e4f75cbfad21b9.jpg",
+      "name": "Women's Lehenga",
+      "description": "Gorgious Lehenga for women",
+      "gender": "Female",
+      "category": "Lehenga",
+      "price": 21999
+    },
+    {
+      "id": 12,
+      "image": "https://assets0.mirraw.com/images/10011955/7612_(2)_long_webp.webp?1688218720",
+      "name": "Women's Lehenga",
+      "description": "Gorgious Lehenga for women",
+      "gender": "Female",
+      "category": "Lehenga",
+      "price": 11999
+    },
+    {
+      "id": 13,
+      "image": "https://images.meesho.com/images/products/101565755/wr79i_512.webp",
+      "name": "Women's Jacket",
+      "description": "Gorgious Jacket for women",
+      "gender": "Female",
+      "category": "jacket",
+      "price": 999
+    },
+    {
+      "id": 14,
+      "image": "https://m.economictimes.com/thumb/msid-96169808,width-1280,height-1280,resizemode-4,imgsize-39552/jackets-.jpg",
+      "name": "Women's Jacket",
+      "description": "Gorgious Jacket for women",
+      "gender": "Female",
+      "category": "jacket",
+      "price": 1199
+    }
+  ]
   }
